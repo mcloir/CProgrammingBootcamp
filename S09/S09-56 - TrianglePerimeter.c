@@ -12,7 +12,7 @@ int main ()
 
     perimeter = 2 * (height + width);
 
-    printf("The perimeter is 2 x (%lf m + %lf m) = %lf m", height, width, perimeter);
+    printf("The perimeter is 2 x (%lf m + %lf m) = %lf m\n", height, width, perimeter);
 
 
     return 0;
